@@ -1,8 +1,13 @@
-# miniweb
+# Miniweb
 learning git version control and collaborate and remote github repository. All of this will be done by miniweb.
 
-1
-4 ### in this project we will have 
-2.1 html
-1 1. training git
-1. and lot of fun
+# Table of content
+* html
+* training git
+* and lot of fun
+
+# Contributor
+* [ducthinh2410 - Thinh Vo](https://github.com/ducthinh2410)
+* [mahamudulalam - Mahamudulalam](https://github.com/mahamudulalam)
+* [Linga321 - Linga](https://github.com/linga321)
+
